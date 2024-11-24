@@ -1,2 +1,14 @@
 # study-rust
-Rust言語の学習ノート
+Rustの自習ノートです。私が個人利用のために作ったノートですが、Rustをこれから学習したい人の役にたてば幸いです。
+
+このREADME.mdは「ですます調」で書いていますが、個人用ノートであるという理由から他のmarkdownページはすべて「である調」になっています。
+
+Rust言語については以下のサイトを参考にしています。
+- [The Rust Programming Language](https://doc.rust-lang.org/book/title-page.html)
+
+# オンライン・コンパイラ
+Rustにはプレイグラウンドと呼ばれるオンライン・コンパイラおよび実行環境が存在します。これらはRustを学ぶ上で大いに役立ちます。
+代表的なものとして[Tour of Rust](https://tourofrust.com/)を挙げておきます。
+# 内容
+
+[0010](0010_install/README.md) : Rustコンパイラのインストール
