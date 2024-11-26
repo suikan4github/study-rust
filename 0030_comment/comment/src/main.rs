@@ -1,5 +1,5 @@
-// The presence or absence of comments has no influence
-// on whether a program is legal or illegal.
+//! The presence or absence of comments has no influence
+//! on whether a program is legal or illegal.
 
 /*
  Furthermore, comments do not influence the meaning of a program;
