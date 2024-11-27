@@ -19,6 +19,7 @@ fn main() {
     println!("{}", 1_000); // 桁区切りを使える
     println!("{}", 0x1234_5678); // 16進数
     println!("{}", 0o123); // 8進数
+    println!("{}", 0b1101_1011); // 2進数
     println!("{}", b'C'); // バイト定数
     println!("{}", std::any::type_name_of_val(&b'C')); // バイトリテラルの型名を表示
 
