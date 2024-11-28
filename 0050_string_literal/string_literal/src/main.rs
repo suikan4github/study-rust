@@ -5,9 +5,10 @@ fn main() {
 
     //    println!("{}", 'ab'); // 文字リテラルは1文字だけが許される。
 
-    // 文字裂リテラル
+    // 文字列リテラル
     println!("{}", "Alpha numeric string");
     println!("{}", "UNICODE文字列");
+    println!("{}", ""); // 空文字列
 
     // リテラルの型
     println!("{}", std::any::type_name_of_val(&'a')); // 文字テラルの型名を表示
