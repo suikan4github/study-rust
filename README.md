@@ -22,3 +22,4 @@ sudo apt install wslu
 - [0040](0040_number_literal/README.md ) : 数値リテラル
 - [0050](0050_string_literal/README.md) : 文字列リテラル
 - [0060](0060_variable/README.md ) : 変数
+- [0070](0070_shadowning/README.md) : シャドーイング
