@@ -20,7 +20,7 @@ sudo apt install wslu
 - [0020](0020_cargo/README.md) : Cargoを使う
 - [0030](0030_comment/README.md) : コメント
 - [0040](0040_number_literal/README.md ) : 数値リテラル
-- [0050](0050_string_literal/README.md) : 文字列リテラル
+- [0050](g0050_string_literal/README.md) : 文字列リテラル
 - [0060](g0060_variable/README.md ) : 変数
 - [0070](g0070_shadowing/README.md) : シャドーイング
 - [0080](p0080_tuple/README.md) : タプル
