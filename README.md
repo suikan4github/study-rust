@@ -16,7 +16,7 @@ sudo apt install wslu
 ```
 # 内容
 
-- [0010](0010_install/README.md) : Rustコンパイラのインストール
+- [0010](g0010_install/README.md) : Rustコンパイラのインストール
 - [0020](g0020_cargo/README.md) : Cargoを使う
 - [0030](g0030_comment/README.md) : コメント
 - [0040](g0040_number_literal/README.md ) : 数値リテラル
