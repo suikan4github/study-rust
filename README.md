@@ -24,3 +24,4 @@ sudo apt install wslu
 - [0060](g0060_variable/README.md ) : 変数
 - [0070](g0070_shadowing/README.md) : シャドーイング
 - [0080](p0080_tuple/README.md) : タプル
+- [0090](p0090_array/README.md) : 配列
