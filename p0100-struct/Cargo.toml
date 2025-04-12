@@ -1,0 +1,6 @@
+[package]
+name = "p0100-struct"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
