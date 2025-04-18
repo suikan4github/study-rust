@@ -17,7 +17,7 @@ fn action(signal: Flag) {
 }
 
 fn main() {
-    let flag = Flag::Red;
+    let flag: Flag = Flag::Red;
     action(flag);
 
     let flag = Flag::Checker;
