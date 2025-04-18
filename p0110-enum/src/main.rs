@@ -1,21 +1,25 @@
-enum TrafficLight {
-    Red,
+// この例題は
+
+enum Flag {
     Yellow,
-    Green,
+    RedCross,
+    Red,
+    Checker,
 }
 
-fn action(light: TrafficLight) {
-    match light {
-        TrafficLight::Red => println!("Stop!"),
-        TrafficLight::Yellow => println!("Caution!"),
-        TrafficLight::Green => println!("Go!"),
+fn action(signal: Flag) {
+    match signal {
+        Flag::Yellow => println!("Do not over take!"),
+        Flag::Red => println!("Return to pit!"),
+        Flag::RedCross => println!("Rain race!"),
+        Flag::Checker => println!("Finish!"),
     }
 }
 
 fn main() {
-    let light = TrafficLight::Red;
-    action(light);
+    let flag = Flag::Red;
+    action(flag);
 
-    let light = TrafficLight::Green;
-    action(light);
+    let flag = Flag::Checker;
+    action(flag);
 }
