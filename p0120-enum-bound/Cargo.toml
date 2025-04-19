@@ -1,5 +1,5 @@
 [package]
-name = "p0110-enum"
+name = "p0120-enum-bound"
 version = "0.1.0"
 edition = "2021"
 
