@@ -16,13 +16,13 @@ sudo apt install wslu
 ```
 # 内容
 
-- [0010](g0010_install/README.md) : Rustコンパイラのインストール
-- [0020](g0020_cargo/README.md) : Cargoを使う
-- [0030](g0030_comment/README.md) : コメント
-- [0040](g0040_number_literal/README.md ) : 数値リテラル
-- [0050](g0050_string_literal/README.md) : 文字列リテラル
-- [0060](g0060_variable/README.md ) : 変数
-- [0070](g0070_shadowing/README.md) : シャドーイング
+- [0010](p0010_install/README.md) : Rustコンパイラのインストール
+- [0020](p0020_cargo/README.md) : Cargoを使う
+- [0030](p0030_comment/README.md) : コメント
+- [0040](p0040_number_literal/README.md ) : 数値リテラル
+- [0050](p0050_string_literal/README.md) : 文字列リテラル
+- [0060](p0060_variable/README.md ) : 変数
+- [0070](p0070_shadowing/README.md) : シャドーイング
 - [0080](p0080_tuple/README.md) : タプル
 - [0090](p0090_array/README.md) : 配列
 - [0100](p0100-struct/README.md) : 構造体
