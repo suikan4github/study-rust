@@ -27,3 +27,5 @@ sudo apt install wslu
 - [0090](p0090_array/README.md) : 配列
 - [0100](p0100-struct/README.md) : 構造体
 - [0110](p0110-enum/README.md) : enum
+- [0120](p0120-enum-bound/README.md) : 値を付加された列挙値
+- [0130](p0130-reqwest-blocking/README.md) : URLをつかってオブジェクトを取得する
