@@ -30,3 +30,4 @@ sudo apt install wslu
 - [0120](p0120-enum-bound/README.md) : 値を付加された列挙値
 - [0130](p0130-reqwest-blocking/README.md) : URLをつかってオブジェクトを取得する
 - [0140](p0140-reqwest-async/README.md) : 非同期でURLをつかってオブジェクトを取得する
+- [0150](p0150-string/README.md) : ヒープ上に確保した変数の廃棄
