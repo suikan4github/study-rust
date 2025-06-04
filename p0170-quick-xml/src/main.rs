@@ -1,7 +1,7 @@
-fn main() {
-    use quick_xml::events::Event;
-    use quick_xml::reader::Reader;
+use quick_xml::events::Event;
+use quick_xml::reader::Reader;
 
+fn get_xml() -> String {
     let config_xml = r#"
         <?xml version="1.0" encoding="UTF-8"?>
         <radiru_config>
@@ -115,8 +115,13 @@ fn main() {
         </radiru_config>
     "#;
 
+    config_xml.to_string()
+}
+
+fn main() {
     let mut context_stack = Vec::new();
-    let mut reader = Reader::from_str(config_xml);
+    let xml_string = get_xml();
+    let mut reader = Reader::from_str(&xml_string);
     let mut buf = Vec::new();
 
     let mut context = "".to_string();
