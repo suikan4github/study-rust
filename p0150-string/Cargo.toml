@@ -1,5 +1,5 @@
 [package]
-name = "p0130-reqwest-async"
+name = "p0150-string"
 version = "0.1.0"
 edition = "2021"
 
