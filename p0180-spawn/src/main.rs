@@ -5,6 +5,7 @@ use std::process::Command;
 fn main() {
     // サブプロセスを起動する
     let mut child = Command::new("/usr/bin/lsblk")
+        .arg("-f")
         .spawn()
         .expect("lsblk should run successfully");
 
