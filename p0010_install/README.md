@@ -7,7 +7,12 @@ Rustコンパイラについて学習する。
 
 # 手順
 ## インストール
-コマンドラインから以下のプログラムを実行する。root権限は不要
+最初にUbuntuに必要なパッケージをインストールする。
+```sh
+sudo apt install curl build-essential
+```
+
+次に、コマンドラインから以下のプログラムを実行する。root権限は不要
 ```sh
 curl --proto '=https' --tlsv1.2 https://sh.rustup.rs -sSf | sh
 ```
