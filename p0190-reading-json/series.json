@@ -1,0 +1,149 @@
+{
+    "id": 121,
+    "title": "カルチャーラジオ　漢詩をよむ",
+    "radio_broadcast": "R2",
+    "schedule": "本放送：毎週土曜　午後７時～７時３０分　 再放送：翌週土曜　朝１０時～１０時３０分",
+    "corner_name": "",
+    "thumbnail_url": "https://www.nhk.or.jp/radioondemand/json/YVW32ZL75Z/img/series_121_thumbnail.jpg",
+    "series_description": "「漢詩をよむ」はわかりやすい解説と重厚な朗読で漢詩に、より親しみ楽しんでいただこうと1985年から始まりました。私たちに馴染みの漢詩を中心に取り上げ、中学生から高齢の方々まで幅広い年齢層の聴取者から反響を頂いています。今年度も聴き応えのある質の高い番組の放送を心がけ多くの漢詩ファンの期待に応えていきます。",
+    "series_url": "https://www.nhk.jp/p/rs/YVW32ZL75Z/",
+    "share_text_title": "カルチャーラジオ　漢詩をよむ",
+    "share_text_url": "https://www.nhk.or.jp/radioondemand/share/121_958.html",
+    "share_text_description": "#radiru",
+    "episodes": [
+        {
+            "id": 4235131,
+            "program_title": "カルチャーラジオ 漢詩をよむ 中国 古都の詩(うた)(11)",
+            "onair_date": "6月14日(土)午後7:00放送",
+            "closed_at": "2025年8月9日(土)午後7:30配信終了",
+            "stream_url": "https://vod-stream.nhk.jp/radioondemand/r/YVW32ZL75Z/s/stream_YVW32ZL75Z_051955dcb4b75dabc3cbe85f76e79b2f/index.m3u8",
+            "aa_contents_id": "[radio]vod;カルチャーラジオ 漢詩をよむ 中国 古都の詩(うた)(11);r2,130;2025061467788;2025-06-14T19:00:03+09:00_2025-06-14T19:30:00+09:00",
+            "annotation_title": "",
+            "annotation_url": "",
+            "program_sub_title": "【出演】國學院大學名誉教授…赤井益久，【朗読】加賀美幸子"
+        },
+        {
+            "id": 4229594,
+            "program_title": "カルチャーラジオ　漢詩をよむ　中国　古都の詩（うた）（１０）",
+            "onair_date": "6月7日(土)午後7:00放送",
+            "closed_at": "2025年8月2日(土)午後7:30配信終了",
+            "stream_url": "https://vod-stream.nhk.jp/radioondemand/r/YVW32ZL75Z/s/stream_YVW32ZL75Z_5c8ed2189d45332aaa2dbb13ee2df2e5/index.m3u8",
+            "aa_contents_id": "[radio]vod;カルチャーラジオ　漢詩をよむ　中国　古都の詩（うた）（１０）;r2,130;2025060766049;2025-06-07T19:00:03+09:00_2025-06-07T19:30:00+09:00",
+            "annotation_title": "",
+            "annotation_url": "",
+            "program_sub_title": "【出演】國學院大學名誉教授…赤井益久，【朗読】加賀美幸子"
+        },
+        {
+            "id": 4221175,
+            "program_title": "カルチャーラジオ　漢詩をよむ　中国　古都の詩（うた）（９）",
+            "onair_date": "5月31日(土)午後7:00放送",
+            "closed_at": "2025年7月26日(土)午後7:30配信終了",
+            "stream_url": "https://vod-stream.nhk.jp/radioondemand/r/YVW32ZL75Z/s/stream_YVW32ZL75Z_9d88aa735d5968b57f0aef4cc66d9f24/index.m3u8",
+            "aa_contents_id": "[radio]vod;カルチャーラジオ　漢詩をよむ　中国　古都の詩（うた）（９）;r2,130;2025053174299;2025-05-31T19:00:03+09:00_2025-05-31T19:30:00+09:00",
+            "annotation_title": "",
+            "annotation_url": "",
+            "program_sub_title": "【出演】國學院大學名誉教授…赤井益久，【朗読】加賀美幸子"
+        },
+        {
+            "id": 4218259,
+            "program_title": "カルチャーラジオ　漢詩をよむ　中国　古都の詩（うた）（８）",
+            "onair_date": "5月24日(土)午後7:00放送",
+            "closed_at": "2025年7月19日(土)午後7:30配信終了",
+            "stream_url": "https://vod-stream.nhk.jp/radioondemand/r/YVW32ZL75Z/s/stream_YVW32ZL75Z_bbfc3ace90a9c07328c2168d5c5b93c4/index.m3u8",
+            "aa_contents_id": "[radio]vod;カルチャーラジオ　漢詩をよむ　中国　古都の詩（うた）（８）;r2,130;2025052472549;2025-05-24T19:00:03+09:00_2025-05-24T19:30:00+09:00",
+            "annotation_title": "",
+            "annotation_url": "",
+            "program_sub_title": "【出演】國學院大學名誉教授…赤井益久，【朗読】加賀美幸子"
+        },
+        {
+            "id": 4216294,
+            "program_title": "カルチャーラジオ　漢詩をよむ　中国　古都の詩（うた）（７）",
+            "onair_date": "5月17日(土)午後7:00放送",
+            "closed_at": "2025年7月12日(土)午後7:30配信終了",
+            "stream_url": "https://vod-stream.nhk.jp/radioondemand/r/YVW32ZL75Z/s/stream_YVW32ZL75Z_96c26786f58e753091ab63e8df9100c8/index.m3u8",
+            "aa_contents_id": "[radio]vod;カルチャーラジオ　漢詩をよむ　中国　古都の詩（うた）（７）;r2,130;2025051770847;2025-05-17T19:00:03+09:00_2025-05-17T19:30:00+09:00",
+            "annotation_title": "",
+            "annotation_url": "",
+            "program_sub_title": "【出演】國學院大學名誉教授…赤井益久，【朗読】加賀美幸子"
+        },
+        {
+            "id": 4211105,
+            "program_title": "カルチャーラジオ　漢詩をよむ　中国　古都の詩（うた）（６）",
+            "onair_date": "5月10日(土)午後7:00放送",
+            "closed_at": "2025年7月5日(土)午後7:30配信終了",
+            "stream_url": "https://vod-stream.nhk.jp/radioondemand/r/YVW32ZL75Z/s/stream_YVW32ZL75Z_e2024913a1855c5add8ba9b18e73a7bf/index.m3u8",
+            "aa_contents_id": "[radio]vod;カルチャーラジオ　漢詩をよむ　中国　古都の詩（うた）（６）;r2,130;2025051069034;2025-05-10T19:00:03+09:00_2025-05-10T19:30:00+09:00",
+            "annotation_title": "",
+            "annotation_url": "",
+            "program_sub_title": "【出演】國學院大學名誉教授…赤井益久，【朗読】加賀美幸子"
+        },
+        {
+            "id": 4206804,
+            "program_title": "カルチャーラジオ　漢詩をよむ　中国　古都の詩（うた）（５）",
+            "onair_date": "5月3日(土)午後7:00放送",
+            "closed_at": "2025年6月28日(土)午後7:30配信終了",
+            "stream_url": "https://vod-stream.nhk.jp/radioondemand/r/YVW32ZL75Z/s/stream_YVW32ZL75Z_a0e2a427dad7eece59701d163374da8e/index.m3u8",
+            "aa_contents_id": "[radio]vod;カルチャーラジオ　漢詩をよむ　中国　古都の詩（うた）（５）;r2,130;2025050367228;2025-05-03T19:00:03+09:00_2025-05-03T19:30:00+09:00",
+            "annotation_title": "",
+            "annotation_url": "",
+            "program_sub_title": "【出演】國學院大學名誉教授…赤井益久，【朗読】加賀美幸子"
+        },
+        {
+            "id": 4201259,
+            "program_title": "カルチャーラジオ　漢詩をよむ　中国　古都の詩（うた）（４）",
+            "onair_date": "4月26日(土)午後7:00放送",
+            "closed_at": "2025年6月21日(土)午後7:30配信終了",
+            "stream_url": "https://vod-stream.nhk.jp/radioondemand/r/YVW32ZL75Z/s/stream_YVW32ZL75Z_6949995a57f120e459e3028552be6492/index.m3u8",
+            "aa_contents_id": "[radio]vod;カルチャーラジオ　漢詩をよむ　中国　古都の詩（うた）（４）;r2,130;2025042675447;2025-04-26T19:00:03+09:00_2025-04-26T19:30:00+09:00",
+            "annotation_title": "",
+            "annotation_url": "",
+            "program_sub_title": "【出演】國學院大學名誉教授…赤井益久，【朗読】加賀美幸子"
+        }
+    ],
+    "same_tag_series": [
+        {
+            "id": 70,
+            "title": "浪曲十八番",
+            "radio_broadcast": "FM",
+            "corner_name": "",
+            "onair_date": "2025年6月16日(月)放送",
+            "thumbnail_url": "https://www.nhk.or.jp/radioondemand/json/6LZRL583KM/img/series_70_thumbnail.jpg",
+            "link_url": "",
+            "series_site_id": "6LZRL583KM",
+            "corner_site_id": "01"
+        },
+        {
+            "id": 917,
+            "title": "日曜カルチャー",
+            "radio_broadcast": "R2",
+            "corner_name": "",
+            "onair_date": "2025年6月15日(日)放送",
+            "thumbnail_url": "https://www.nhk.jp/static/assets/images/radioseries/rs/NJZR87XYYV/NJZR87XYYV-eyecatch_7ceef0769e1d5b07ed4959b0a9e264cb.jpg",
+            "link_url": "",
+            "series_site_id": "NJZR87XYYV",
+            "corner_site_id": "01"
+        },
+        {
+            "id": 17,
+            "title": "DJ日本史",
+            "radio_broadcast": "R1,FM",
+            "corner_name": "",
+            "onair_date": "2025年6月15日(日)放送",
+            "thumbnail_url": "https://www.nhk.jp/static/assets/images/radioseries/rs/4NX86G1VJ9/4NX86G1VJ9-eyecatch_f748aec412ffa4a76271620ed06a6de8.jpg",
+            "link_url": "",
+            "series_site_id": "4NX86G1VJ9",
+            "corner_site_id": "01"
+        },
+        {
+            "id": 7,
+            "title": "子ども科学電話相談",
+            "radio_broadcast": "R1",
+            "corner_name": "子ども科学電話相談を聴く",
+            "onair_date": "2025年6月15日(日)放送",
+            "thumbnail_url": "https://www.nhk.jp/static/assets/images/radioseries/rs/P3X5LNZ17X/P3X5LNZ17X-eyecatch_0c25824ff501762c208387e7d73ed33f.jpg",
+            "link_url": "",
+            "series_site_id": "P3X5LNZ17X",
+            "corner_site_id": "00"
+        }
+    ]
+}
